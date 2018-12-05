@@ -1,2 +1,2 @@
 # VNS SoloMiner
-VNS SoloMiner
+VNS SoloMiner 
